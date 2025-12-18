@@ -1,4 +1,1 @@
-- [x] Clean up code: remove emojis, simplify output formatting, add professional comments
-- [x] Improve bar chart function
-- [x] Add line chart function
-- [x] Update main to print both charts
+
